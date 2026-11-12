@@ -1,6 +1,7 @@
 {
   "name": "Nersika",
-  "short_name": "Nersika",
+  "short_name": "نرسیکا",
+  "description": "سامانه جامع خدمات پرستاری و گردشگری سلامت نرسیکا",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
